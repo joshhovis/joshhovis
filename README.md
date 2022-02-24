@@ -27,7 +27,6 @@ With my new skills, I am determined to implement creative direction and build ph
       <a href="#"><img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=Sass&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-F7F7F7?style=flat-square&logo=bootstrap" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FAFAFA" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-F7F7F7?style=flat-square&logo=mongodb" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
@@ -41,3 +40,7 @@ With my new skills, I am determined to implement creative direction and build ph
 <hr>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhovis&show_icons=true&theme=react)](https://github.com/joshhovis/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshhovis&repo=2048-Web-Game&theme=city_lights)](https://github.com/joshhovis/2048-Web-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshhovis&repo=GameHOC&theme=city_lights)](https://github.com/joshhovis/GameHOC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshhovis&repo=the-architech&theme=city_lights)](https://github.com/joshhovis/the-architech)
