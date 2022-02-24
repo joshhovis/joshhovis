@@ -19,7 +19,7 @@ With my new skills, I am determined to implement creative direction and build ph
       <a href="#"><img src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=339933" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=Sass" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=Sass&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-F7F7F7?style=flat-square&logo=bootstrap" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
