@@ -40,7 +40,3 @@ With my new skills, I am determined to implement creative direction and build ph
 <hr>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhovis&show_icons=true&theme=react)](https://github.com/joshhovis/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshhovis&repo=2048-Web-Game&theme=city_lights)](https://github.com/joshhovis/2048-Web-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshhovis&repo=GameHOC&theme=city_lights)](https://github.com/joshhovis/GameHOC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshhovis&repo=the-architech&theme=city_lights)](https://github.com/joshhovis/the-architech)
