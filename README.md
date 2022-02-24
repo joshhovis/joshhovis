@@ -6,9 +6,10 @@ With my new skills, I am determined to implement creative direction and build ph
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshhovis&show_icons=true&theme=react)
 <hr>
 
-- 📫 Get to know me or reach me at:<div ><br>
+- 📫 Get to know me or reach me at:
+<div>
+<br>
     <a href="https://www.linkedin.com/in/joshua-hovis/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-    <a href="https://github.com/joshhovis"><img src="https://img.shields.io/github/followers/sbassong?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: joshuahovis3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
   
@@ -36,7 +37,7 @@ With my new skills, I am determined to implement creative direction and build ph
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
-    </div>
+</div>
 <hr>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhovis&show_icons=true&theme=react)](https://github.com/joshhovis/github-readme-stats)
