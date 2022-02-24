@@ -3,7 +3,7 @@
 [Joshua Hovis] I am a Software Engineer with full-stack development experience but whose true passion lies in front-end development.
 With my new skills, I am determined to implement creative direction and build phenomenal and functional user-friendly web applications with an awesome team :rocket:.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshhovis&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshhovis&show_icons=true&theme=tokyonight)
 
 - 📫 Get to know me or reach me at:<div ><br>
     <a href="https://www.linkedin.com/in/joshua-hovis/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
@@ -33,4 +33,5 @@ With my new skills, I am determined to implement creative direction and build ph
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhovis&show_icons=true&theme=radical)](https://github.com/joshhovis/github-readme-stats)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhovis&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/joshhovis/github-readme-stats)
