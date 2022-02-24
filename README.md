@@ -33,4 +33,4 @@ With my new skills, I am determined to implement creative direction and build ph
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhovis)](https://github.com/joshhovis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhovis&show_icons=true&theme=radical)](https://github.com/joshhovis/github-readme-stats)
