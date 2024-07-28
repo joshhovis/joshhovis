@@ -1,7 +1,7 @@
 <h1 align="center">  Hi, I'm Josh! </h1>
 
 [Joshua Hovis] I am a Software Engineer with full-stack development experience but whose true passion lies in front-end development.
-With my new skills, I am determined to implement creative direction and build phenomenal and functional user-friendly web applications with an awesome team :rocket:.
+With my skills, I am determined to implement creative direction and build phenomenal and functional user-friendly web applications with an awesome team :rocket:.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshhovis&show_icons=true&theme=react)
 <hr>
